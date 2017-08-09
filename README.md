@@ -3,11 +3,10 @@
 
 ![작동화면](https://kkimsangheon.github.io/2017/06/29/request-parent/request-parent-flow.png)
 
-{% asset_img request-parent-flow.png 작동화면 %}
 초기화면에서 문자메세지를 수신할 번호, 부재중통화의 개수n을 입력하고 동작하기 버튼을 누릅니다.
 
 ![수신된 메세지](https://kkimsangheon.github.io/2017/06/29/request-parent/request-parent-received-message.png)
-{% asset_img request-parent-received-message.png 수신된 메세지 %}
+
 어플리케이션을 설치한 스마트폰 주인이 부재중통화를 n번 받지 않을 경우 스마트폰의 현재 위치가 등록한 번호로 전송됩니다.
 
 [시연영상](https://www.youtube.com/watch?v=3JUTYHuzjdA)
