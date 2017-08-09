@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    android:orientation="vertical" 
+    android:gravity="center_horizontal">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="등록할 횟수를 입력하세요. 등록한 횟수만큼 전화를 받지 않을시 등록한 번호로 문자가 발송됩니다."
+        android:textSize="17dp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/count"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="phone"
+        android:textSize="20sp" />
+
+    <ImageButton
+        android:id="@+id/register"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="0px"
+        android:src="@drawable/next" />
+
+</LinearLayout>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/bg2"
+    android:gravity="center_horizontal"
+   >
+ <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:text="메세지를 수신 할 번호를 입력 후 버튼을 누르세요. 등록한 번호로 문자메세지가 발송됩니다."
+         android:textSize="17dp"
+         android:textStyle="bold"
+         />
+    <EditText
+        android:id="@+id/phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="phone"
+        android:textSize="15dp" />
+
+    
+     <ImageButton
+        android:id="@+id/send"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="0px"
+        android:src="@drawable/next" />
+  
+</LinearLayout>

@@ -1,0 +1,95 @@
+ <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+         android:gravity="center_vertical" >
+<LinearLayout 
+   
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" 
+     android:background="@drawable/bg">
+
+   
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:src="@drawable/oldpeople" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="개발동기"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="우리나라의 노령화 지수는 매년 증가하고 있으며 이에 비례해 노인들의 고독사 또한 증가하고 있습니다. 저희 팀은 이러한 상황을 극복하는데 조금이나마 기여하고자 '부모님을 부탁해' 라는 앱을 개발하게 되었습니다 "
+            android:textSize="15dp"
+            android:textStyle="bold" />
+    	<TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="App의 기능"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="이 App은 부재중 통화수 n이 충족되면 미리 지정한 번호로 문자메세지(위치정보포함)가 송신되는 App입니다. "
+            android:textSize="15dp" 
+            android:textStyle="bold"/>
+      
+         <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="수정/보완하겠습니다"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1. VoLte 통화는 부재중통화 개수를 세지 못하는 오류가 발견되었습니다. 현재로써는 VoLte를 사용하는 스마트폰에서는 동작하지 않습니다. 이 점은 추후 개선 하겠습니다."
+            android:textSize="15dp" 
+            android:textStyle="bold"/>
+         <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2. 어플이 동작하려면 동작화면이 지속적으로 켜져있어야 하는 단점이 있으나 추후 개선하도록 하겠습니다."
+            android:textSize="15dp" 
+            android:textStyle="bold"/>
+        
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="감사합니다"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="사용중 불편하신 점이나 버그를 발견시 아래의 이메일로 피드백 주시면 수정하도록 하겠습니다. "
+            android:textSize="15dp" 
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="김상헌 : tkdgjs1501@nate.com "
+            android:textSize="15dp" 
+            android:textStyle="bold"/>
+                <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="윤재준 : dkfb0057@naver.com"
+            android:textSize="15dp" 
+            android:textStyle="bold"/>
+        
+        
+</LinearLayout>
+ </ScrollView>

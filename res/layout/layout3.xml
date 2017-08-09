@@ -1,0 +1,85 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bg"
+        android:gravity="center_horizontal"
+        android:orientation="vertical" >
+<TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="본 페이지는 App의 동작법을 설명합니다."
+            android:textSize="15dp"
+            android:textStyle="bold" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:padding="10dp"
+            android:src="@drawable/a1" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1.등록하기 버튼을 누릅니다."
+            android:textSize="15dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:src="@drawable/a2" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2.문자메세지를 수신할 번호를 입력 후 버튼을 누릅니다."
+            android:textSize="15dp"
+            android:textStyle="bold" />
+         <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:src="@drawable/a3" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3.등록할 횟수를 입력 후 버튼을 누릅니다."
+            android:textSize="15dp"
+            android:textStyle="bold" />
+        
+             <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:src="@drawable/a4" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="4.어플동작하기 버튼을 눌러 App을 동작시킵니다."
+            android:textSize="15dp"
+            android:textStyle="bold" />
+             <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:src="@drawable/a5" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="5.동작중인 화면입니다."
+            android:textSize="15dp"
+            android:textStyle="bold" />
+        
+        
+    </LinearLayout>
+
+</ScrollView>
