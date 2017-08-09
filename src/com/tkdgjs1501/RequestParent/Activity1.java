@@ -20,7 +20,7 @@ public class Activity1 extends Activity {
 	public static int CReg;	//횟수 등록
 	public static String CurLoc;
 	public static int InitMissedCall=0;		//처음 시작할때 부재중통화 수
-
+  
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
