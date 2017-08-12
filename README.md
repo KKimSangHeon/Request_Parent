@@ -11,5 +11,7 @@
 
 [google play 방문](https://play.google.com/store/apps/details?id=com.tkdgjs1501.RequestParent)
 
-[![Alt text for your video](https://img.youtube.com/vi/3JUTYHuzjdA/0.jpg)](https://www.youtube.com/watch?v=3JUTYHuzjdA)
+시연영상
+
+[![시연영상](https://img.youtube.com/vi/3JUTYHuzjdA/0.jpg)](https://www.youtube.com/watch?v=3JUTYHuzjdA)
 
