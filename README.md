@@ -9,8 +9,6 @@
 
 어플리케이션을 설치한 스마트폰 주인이 부재중통화를 n번 받지 않을 경우 스마트폰의 현재 위치가 등록한 번호로 전송됩니다.
 
-[시연영상](https://www.youtube.com/watch?v=3JUTYHuzjdA)
-
 [google play 방문](https://play.google.com/store/apps/details?id=com.tkdgjs1501.RequestParent)
 
-[![Alt text for your video](https://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](http://www.youtube.com/watch?v=T-D1KVIuvjA)
+[![Alt text for your video](https://img.youtube.com/vi/3JUTYHuzjdA/0.jpg)](https://www.youtube.com/watch?v=3JUTYHuzjdA)
